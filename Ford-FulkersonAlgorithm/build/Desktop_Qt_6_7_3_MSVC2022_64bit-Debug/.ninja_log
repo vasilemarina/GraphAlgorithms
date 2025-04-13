@@ -1,0 +1,12 @@
+# ninja log v6
+65	221	7662736937081541	AG_Tema6_autogen/timestamp	d3a141399346a379
+65	221	7662736937081541	AG_Tema6_autogen/mocs_compilation.cpp	d3a141399346a379
+65	221	7662736937081541	D:/Facultate_An2_Sem1/AG_Tema6/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/AG_Tema6_autogen/timestamp	d3a141399346a379
+65	221	7662736937081541	D:/Facultate_An2_Sem1/AG_Tema6/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/AG_Tema6_autogen/mocs_compilation.cpp	d3a141399346a379
+241	1897	7662736938844798	CMakeFiles/AG_Tema6.dir/node.cpp.obj	315506a8bc18be1c
+234	5890	7662736938776166	CMakeFiles/AG_Tema6.dir/edge.cpp.obj	564cb5f9f41f17ef
+228	7557	7662736938715297	CMakeFiles/AG_Tema6.dir/main.cpp.obj	12580f6d42447b89
+225	7579	7662736938685285	CMakeFiles/AG_Tema6.dir/AG_Tema6_autogen/mocs_compilation.cpp.obj	ff2dcaa714ceb6b3
+237	7759	7662736938812765	CMakeFiles/AG_Tema6.dir/graph.cpp.obj	debf41e925d1a34d
+231	7908	7662736938745296	CMakeFiles/AG_Tema6.dir/mainwindow.cpp.obj	33bb66d08b21b8b4
+7909	8255	7662737015521889	AG_Tema6.exe	a531736169c34c9a

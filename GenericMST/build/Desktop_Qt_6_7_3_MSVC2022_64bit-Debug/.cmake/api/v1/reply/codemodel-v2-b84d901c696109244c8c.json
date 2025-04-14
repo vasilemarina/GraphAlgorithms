@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7711fa7269ab4a70db1c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GenericMST",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GenericMST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GenericMST-Debug-f75aae3ca5d731849671.json",
+					"name" : "GenericMST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GenericMST_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GenericMST_autogen-Debug-db0140913ee9068e2d17.json",
+					"name" : "GenericMST_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GenericMST_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GenericMST_autogen_timestamp_deps-Debug-7eb68c974fc951bd30ce.json",
+					"name" : "GenericMST_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CV/GraphAlgorithms2/GraphAlgorithms2/GenericMST/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug",
+		"source" : "D:/CV/GraphAlgorithms2/GraphAlgorithms2/GenericMST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

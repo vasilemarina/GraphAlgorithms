@@ -1,0 +1,18 @@
+# ninja log v6
+30	711	7663301608363395	KruskalMST_autogen/timestamp	dbbc66d9af06bb50
+30	711	7663301608363395	D:/CV/GraphAlgorithms2/GraphAlgorithms2/KruskalMST/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/KruskalMST_autogen/timestamp	dbbc66d9af06bb50
+30	711	7663301608363395	KruskalMST_autogen/mocs_compilation.cpp	dbbc66d9af06bb50
+731	7048	7663301609202647	CMakeFiles/KruskalMST.dir/mainwindow.cpp.obj	216bf6fdecf6b0b5
+30	711	7663301608363395	D:/CV/GraphAlgorithms2/GraphAlgorithms2/KruskalMST/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/KruskalMST_autogen/mocs_compilation.cpp	dbbc66d9af06bb50
+729	6836	7663301609202647	CMakeFiles/KruskalMST.dir/main.cpp.obj	4b83158f769d50b7
+726	6920	7663301609202647	CMakeFiles/KruskalMST.dir/KruskalMST_autogen/mocs_compilation.cpp.obj	a029423deb17bee0
+80	221	7663302085532652	KruskalMST_autogen/timestamp	dbbc66d9af06bb50
+80	221	7663302085532652	KruskalMST_autogen/mocs_compilation.cpp	dbbc66d9af06bb50
+80	221	7663302085532652	D:/CV/GraphAlgorithms2/GraphAlgorithms2/KruskalMST/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/KruskalMST_autogen/timestamp	dbbc66d9af06bb50
+80	221	7663302085532652	D:/CV/GraphAlgorithms2/GraphAlgorithms2/KruskalMST/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/KruskalMST_autogen/mocs_compilation.cpp	dbbc66d9af06bb50
+227	1031	7663302087017130	CMakeFiles/KruskalMST.dir/disjointsets.cpp.obj	14cf27bb3c3b783c
+234	1572	7663302087130591	CMakeFiles/KruskalMST.dir/node.cpp.obj	5cbbe591ab1ab28
+229	5053	7663302087017130	CMakeFiles/KruskalMST.dir/edge.cpp.obj	86deb063e2ccb196
+231	6837	7663302087017130	CMakeFiles/KruskalMST.dir/graph.cpp.obj	f5860732cae563e9
+224	7073	7663302087017130	CMakeFiles/KruskalMST.dir/mainwindow.cpp.obj	216bf6fdecf6b0b5
+7073	7633	7663302155522081	KruskalMST.exe	f3c6cd4c8214efb

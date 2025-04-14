@@ -1,0 +1,12 @@
+# ninja log v6
+34	745	7663304160486355	ShortestPathFinder_autogen/timestamp	6921535f929eaef2
+34	745	7663304160486355	ShortestPathFinder_autogen/mocs_compilation.cpp	6921535f929eaef2
+34	745	7663304160486355	D:/CV/GraphAlgorithms2/GraphAlgorithms2/ShortestPathFinder/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/ShortestPathFinder_autogen/timestamp	6921535f929eaef2
+34	745	7663304160486355	D:/CV/GraphAlgorithms2/GraphAlgorithms2/ShortestPathFinder/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/ShortestPathFinder_autogen/mocs_compilation.cpp	6921535f929eaef2
+770	3304	7663304161672382	CMakeFiles/ShortestPathFinder.dir/edge.cpp.obj	bfe04b3a7e58a4d
+777	3319	7663304161741750	CMakeFiles/ShortestPathFinder.dir/node.cpp.obj	480cb6bc591b65c3
+773	6909	7663304161709351	CMakeFiles/ShortestPathFinder.dir/graph.cpp.obj	97e8d00ba806e81a
+761	8528	7663304161526078	CMakeFiles/ShortestPathFinder.dir/ShortestPathFinder_autogen/mocs_compilation.cpp.obj	de93cf13ddb8506b
+764	8547	7663304161526078	CMakeFiles/ShortestPathFinder.dir/main.cpp.obj	e01effb95f62bc36
+766	8582	7663304161526078	CMakeFiles/ShortestPathFinder.dir/mainwindow.cpp.obj	4c1ac3b69b46d36d
+8583	9100	7663304239798857	ShortestPathFinder.exe	c623c37e787e6149

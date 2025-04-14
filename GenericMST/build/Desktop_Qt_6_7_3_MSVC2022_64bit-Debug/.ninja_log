@@ -1,0 +1,12 @@
+# ninja log v6
+51	1048	7663300064353377	GenericMST_autogen/timestamp	6a4776a19d9a1e5c
+51	1048	7663300064353377	GenericMST_autogen/mocs_compilation.cpp	6a4776a19d9a1e5c
+51	1048	7663300064353377	D:/CV/GraphAlgorithms2/GraphAlgorithms2/GenericMST/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/GenericMST_autogen/timestamp	6a4776a19d9a1e5c
+51	1048	7663300064353377	D:/CV/GraphAlgorithms2/GraphAlgorithms2/GenericMST/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/GenericMST_autogen/mocs_compilation.cpp	6a4776a19d9a1e5c
+1084	3462	7663300065834227	CMakeFiles/GenericMST.dir/node.cpp.obj	6b528ccaee2d5624
+1077	8490	7663300065766996	CMakeFiles/GenericMST.dir/edge.cpp.obj	6601f770ea411379
+1081	10561	7663300065799995	CMakeFiles/GenericMST.dir/graph.cpp.obj	98ef25d524208afc
+1071	10613	7663300065699846	CMakeFiles/GenericMST.dir/main.cpp.obj	e774873e18728898
+1067	10664	7663300065656688	CMakeFiles/GenericMST.dir/GenericMST_autogen/mocs_compilation.cpp.obj	e710fa958286b5c1
+1074	10715	7663300065730045	CMakeFiles/GenericMST.dir/mainwindow.cpp.obj	d2d4a390cc3f5d32
+10716	11404	7663300162151216	GenericMST.exe	1203bc3a64e33d40

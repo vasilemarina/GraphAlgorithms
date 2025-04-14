@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5d57c94a1415cc6e11a0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GraphEditor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GraphEditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GraphEditor-Debug-0e13b11e5c95e4365bde.json",
+					"name" : "GraphEditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GraphEditor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GraphEditor_autogen-Debug-9897552351e5a1d45d61.json",
+					"name" : "GraphEditor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GraphEditor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GraphEditor_autogen_timestamp_deps-Debug-93dc8e856ac26ed22106.json",
+					"name" : "GraphEditor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CV/GraphAlgorithms2/GraphAlgorithms2/GraphEditor/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug",
+		"source" : "D:/CV/GraphAlgorithms2/GraphAlgorithms2/GraphEditor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

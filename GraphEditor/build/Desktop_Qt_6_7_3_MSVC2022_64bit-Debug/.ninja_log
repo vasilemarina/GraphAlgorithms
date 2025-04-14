@@ -1,0 +1,21 @@
+# ninja log v6
+63	257	7663274554684669	GraphEditor_autogen/timestamp	993b5c884db782cb
+63	257	7663274554684669	D:/CV/GraphAlgorithms2/GraphAlgorithms2/GraphEditor/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/GraphEditor_autogen/mocs_compilation.cpp	993b5c884db782cb
+63	257	7663274554684669	GraphEditor_autogen/mocs_compilation.cpp	993b5c884db782cb
+63	257	7663274554684669	D:/CV/GraphAlgorithms2/GraphAlgorithms2/GraphEditor/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/GraphEditor_autogen/timestamp	993b5c884db782cb
+1171	9917	7663274097531985	CMakeFiles/GraphEditor.dir/main.cpp.obj	edc674069a382ad9
+1166	9949	7663274097483824	CMakeFiles/GraphEditor.dir/GraphEditor_autogen/mocs_compilation.cpp.obj	fefdb934c05b28ba
+315	7781	7663274557313592	CMakeFiles/GraphEditor.dir/mainwindow.cpp.obj	84597482054a04a
+318	2394	7663274557343595	CMakeFiles/GraphEditor.dir/edge.cpp.obj	43ad3122ed1e9381
+327	2416	7663274557427967	CMakeFiles/GraphEditor.dir/node.cpp.obj	25172041632c4bc7
+322	6771	7663274557386322	CMakeFiles/GraphEditor.dir/graph.cpp.obj	ad6b425594ad39a4
+7782	8364	7663274631979947	GraphEditor.exe	78c4aa70f4a1f289
+62	810	7663289035979612	GraphEditor_autogen/timestamp	993b5c884db782cb
+62	810	7663289035979612	GraphEditor_autogen/mocs_compilation.cpp	993b5c884db782cb
+62	810	7663289035979612	D:/CV/GraphAlgorithms2/GraphAlgorithms2/GraphEditor/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/GraphEditor_autogen/timestamp	993b5c884db782cb
+62	810	7663289035979612	D:/CV/GraphAlgorithms2/GraphAlgorithms2/GraphEditor/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/GraphEditor_autogen/mocs_compilation.cpp	993b5c884db782cb
+823	6376	7663289037042548	CMakeFiles/GraphEditor.dir/graph.cpp.obj	ad6b425594ad39a4
+816	7242	7663289036950833	CMakeFiles/GraphEditor.dir/main.cpp.obj	edc674069a382ad9
+813	7381	7663289036945792	CMakeFiles/GraphEditor.dir/GraphEditor_autogen/mocs_compilation.cpp.obj	fefdb934c05b28ba
+820	7560	7663289036950833	CMakeFiles/GraphEditor.dir/mainwindow.cpp.obj	84597482054a04a
+7560	7962	7663289104414933	GraphEditor.exe	78c4aa70f4a1f289
